@@ -1,5 +1,6 @@
 <?php
 // test
+// test2
 class Ryus_File
 {
     public function removeDirectory($dir) {
